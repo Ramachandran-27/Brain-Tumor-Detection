@@ -19,5 +19,4 @@ A CNN-based model that classifies Brain MRI images into tumor types like Glioma,
 • Reduced training time and improved performance using transfer learning
 
 # Tech Stack:
-Python, TensorFlow, Keras, OpenCV
-Pandas, NumPy, Matplotlib, Scikit-learn
+Python, TensorFlow, Keras, OpenCV, Pandas, NumPy, Matplotlib, Scikit-learn
